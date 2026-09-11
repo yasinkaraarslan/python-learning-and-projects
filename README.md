@@ -22,7 +22,7 @@ Python Learning & Project Portfolio
 flash-card-app-original/
 │
 ├── flashcard.py              # Application entry point and core game loop
-├── where.data           # Local vocabulary database file
+├── words.data           # Local vocabulary database file
 ├── README.md            # Project documentation
 └── requirements.txt     # Python external dependencies
 ```
