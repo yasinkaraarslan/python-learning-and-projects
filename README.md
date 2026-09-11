@@ -1,12 +1,12 @@
 Python Learning & Project Portfolio
 
-# 🗂️ English Flashcard App
+ English Flashcard App
 
 ### *Master English vocabulary directly from your terminal with ASCII art and streak tracking.*
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 * **100% Hand-Coded Logic** – Built purely by hand in Python without any AI generation.
 * **Stunning CLI Visuals** – Rendered with `pyfiglet` for giant ASCII words and `rich` for vibrant, colorized menus and statistics tables.
@@ -16,7 +16,7 @@ Python Learning & Project Portfolio
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 flash-card-app-original/
@@ -29,7 +29,7 @@ flash-card-app-original/
 
 ---
 
-## 📊 Data Format
+##  Data Format
 
 The application pulls vocabulary randomly from a local text database named `where.data`. Each word pair must follow a strict `english_word:turkish_meaning` format with **no spaces around the colon**:
 
@@ -43,7 +43,7 @@ You can customize or expand this file with your own vocabulary lists by followin
 
 ---
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 Get the application up and running on your local machine in just a few steps.
 
@@ -67,7 +67,7 @@ python flashcard.py
 
 ---
 
-## 🎮 How to Play / Usage Guide
+##  How to Play / Usage Guide
 
 1. **Start the Game:** Launching the app initializes a beautiful terminal layout presenting you with a random English word.
 2. **Submit Your Answer:** Type the exact Turkish translation and hit `Enter`. 
@@ -78,7 +78,7 @@ python flashcard.py
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 * **Python 3.x**
 * **pyfiglet** – Converts text into large, stylistic ASCII art fonts.
@@ -95,7 +95,7 @@ Certificate : https://www.py4e.com/tsugi/assertions/ma2c0bdb5db73eac61535b54e751
 
 ---
 
-## ⚙️ Adapted & Enhanced Projects
+##  Adapted & Enhanced Projects
 
 Open-source projects from learning resources that I analyzed, refactored, and improved.
 
