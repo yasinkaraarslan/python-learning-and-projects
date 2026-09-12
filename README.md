@@ -74,8 +74,7 @@ python flashcard.py
    * **Correct Answer:** Your **Win Streak** increases!
    * **Incorrect Answer:** Your streak drops to `0`, and the word is sent to your **Mistakes Pool**.
 3. **Need a Hint?:** Stalled on a difficult word? Type `help` in the prompt to view the first and last letters of the Turkish meaning.(hints are disabled for translations that are shorter than 4 letters)
-4. **Review Mode:** Choose the review option from the main menu to pull exclusively from your **Wrong Answers Section** and clear out your historical mistakes.
-
+4. **Review Mode:** Automatically queues up your wrong answers. Simply press Enter to cycle through and clear your mistakes.
 ---
 
 ##  Dependencies
