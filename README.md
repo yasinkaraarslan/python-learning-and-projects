@@ -31,7 +31,7 @@ flash-card-app-original/
 
 ##  Data Format
 
-The application pulls vocabulary randomly from a local text database named `where.data`. Each word pair must follow a strict `english_word:turkish_meaning` format with **no spaces around the colon**:
+The application pulls vocabulary randomly from a local text database named `words.data`. Each word pair must follow a strict `english_word:turkish_meaning` format with **no spaces around the colon**:
 
 ```text
 encounter:rastlamak
@@ -50,7 +50,7 @@ Get the application up and running on your local machine in just a few steps.
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com
-cd Python-learning-and-projects/flash-card-app-original
+cd python-learning-and-projects/flash-card-app-original
 ```
 
 ### 2. Install Dependencies
@@ -84,7 +84,7 @@ python flashcard.py
 * **pyfiglet** – Converts text into large, stylistic ASCII art fonts.
 * **rich** – Handles colorized logs, crisp bounding boxes, and organized terminal data tables.
 
-PY4E Course Exercises (Dr. Charles Severance)
+## PY4E Course Exercises (Dr. Charles Severance)
 
 My solutions and assignments from the *Python for Everybody (PY4E)* curriculum.
 
