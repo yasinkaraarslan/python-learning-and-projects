@@ -98,7 +98,7 @@ Certificate : https://www.py4e.com/tsugi/assertions/ma2c0bdb5db73eac61535b54e751
 
 Open-source projects from learning resources that I analyzed, refactored, and improved.
 
-* **Atatürk Statues Map Visualizer:** Bypassed a library rendering bug by writing a custom Python script that serializes coordinate data from `where.data` into a dynamic JavaScript file (`where.js`).
+* **Atatürk Statues Map Visualizer:** Bypassed a library rendering bug by writing a custom Python script that serializes coordinate data from `statue.data` into a dynamic JavaScript file (`where.js`).
 * **Relational Music Tracks Database:** Parses `tracks.csv` and structures a **Many-to-Many (M:M)** relational model in `SQLite` across Artist, Genre, Album, and Track tables.
 * **Automated Image Scraper Bot:** Connects to a target URL, parses the HTML structure, and automatically downloads images to a local folder.
 * **Domain Counter:** Parses `mbox-short.txt` to extract email domains and logs the counts into an `SQLite` database.
