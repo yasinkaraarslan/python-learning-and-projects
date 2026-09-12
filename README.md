@@ -8,7 +8,7 @@ Python Learning & Project Portfolio
 
 ##  Key Features
 
-* **Custom Core Logic - Built from scratch in pure Python to focus on core algorithmic thinking and CLI control flow.
+* **Custom Core Logic** - Built from scratch in pure Python to focus on core algorithmic thinking and CLI control flow.
 * **Stunning CLI Visuals** – Rendered with `pyfiglet` for giant ASCII words and `rich` for vibrant, colorized menus and statistics tables.
 * **Smart Hint System** – Type `help` during a game to reveal a clue showing only the first and last letters of the Turkish translation.
 * **Win Streak Tracking** – Tracks your consecutive correct answers. One mistake resets your streak to zero to keep you on your toes!
